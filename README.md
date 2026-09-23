@@ -19,3 +19,6 @@ What makes the article stand out is that he doesn't stop at vague predictions. H
 I'm studying business and starting a company of my own, so his idea of the **"minimum viable engineering team"** caught my attention. He predicts teams will shrink, but he also argues that a company with just one engineer creates a single point of failure and removes its talent pipeline. I think that's the most balanced part of the article. It recognizes that team size is a business decision, not just a technical one.
 
 Where I'm more skeptical is the prediction that humans won't need to review AI-generated code at all. Accountability still matters when software fails in areas like finance or healthcare, and someone has to be responsible. It's fitting that this assignment is about Git, a tool whose whole purpose is recording who changed what. Even if agents write most of the code in the future, I think tracking authorship and responsibility will matter more, not less.
+
+## Comment from Hudhaifah Rehman
+As somebody who's plan was always to work on my own projects with a small team, this article also catches my attention. Although I don't like AI, it'll definitely be beneficial for startups who can't afford to hire a large team. This article makes me wanna return to abandoned projects that died to scope creep.
